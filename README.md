@@ -63,6 +63,6 @@ I'm a passionate frontend developer, from Indonesia.
 </td></tr></table>
 <br />
 
-![Snake animation](https://github.com/Alana1252/Alana1252/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alana1252/Alana1252/blob/output/snake.svg)
 
 ##
