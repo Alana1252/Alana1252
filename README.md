@@ -18,7 +18,7 @@ I'm a passionate frontend developer, from Indonesia.
 
 <br/>  
 
-<tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -38,7 +38,7 @@ I'm a passionate frontend developer, from Indonesia.
 
 
 
-### What I learned 📘 
+### What I learned 📘  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -54,7 +54,7 @@ I'm a passionate frontend developer, from Indonesia.
 <img src="https://i.pinimg.com/originals/af/e6/55/afe65557a50f1f634fed4a23bc411ea8.gif" align="left" height="330" width="300" />  
 
 
-</td></tr>
+</td></tr></table>  
 
 <br/>  
 
@@ -71,3 +71,5 @@ I'm a passionate frontend developer, from Indonesia.
 </td></tr></table>
 <br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
