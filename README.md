@@ -18,7 +18,7 @@ I'm a passionate frontend developer, from Indonesia.
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 
 
@@ -54,7 +54,7 @@ I'm a passionate frontend developer, from Indonesia.
 <img src="https://i.pinimg.com/originals/af/e6/55/afe65557a50f1f634fed4a23bc411ea8.gif" align="left" height="330" width="300" />  
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
@@ -71,5 +71,3 @@ I'm a passionate frontend developer, from Indonesia.
 </td></tr></table>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
