@@ -54,7 +54,7 @@
 
 ###
 <br>
-<div align="center" style="padding-top:100px;">
+<div align="center" style="margin-top:100px;">
   <img src="https://streak-stats.demolab.com?user=Alana1252&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alana1252&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
