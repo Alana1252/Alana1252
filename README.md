@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alan Kamesta Ginting</h2>
+<h1 align="left">Hi 👋! My name is Alan Kamesta Ginting</h2>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">My Work 🤝</h2>
+<h2 align="left">My Work 🤝 :</h2>
 
 ###
 
-<p align="left">🧑‍💻 tpakd.bengkaliskab.go.id.</p>
+<p align="left">🧑‍💻 <a href="https://tpakd.bengkaliskab.go.id/">tpakd.bengkaliskab.go.id</a>.</p>
 
 ###
 
@@ -36,7 +36,7 @@
 </div>
 
 ###
-
+<br clear="both">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
