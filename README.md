@@ -1,62 +1,75 @@
-<h1 align="left">Hi 👋! My name is Alan Kamesta Ginting</h2>
+## Hey 👋, I'm Alan Kamesta Ginting!   
+  
 
-###
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=Alana1252&&style=flat-square" align="right" />
+</div>  
+  
 
-<p align="left">I'm a  passionate frontend developer, from Indonesia.</p>
+I'm a passionate frontend developer, from Indonesia.  
+  
 
-###
-
-<h2 align="left">My Work 🤝 :</h2>
-
-###
-
-<p align="left">🧑‍💻 <a href="https://tpakd.bengkaliskab.go.id/" data-target="_blank">tpakd.bengkaliskab.go.id</a>. government information website as backend and frontend.</p>
-
-###
-
-<h2 align="left">Connect With Me 🔗 :</h2>
+<br/>  
 
 
-###
+## My Work 🤝  
+🧑‍💻[tpakd.bengkaliskab.go.id](https://tpakd.bengkaliskab.go.id/). government information website as backend and frontend.  
+  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br/>  
 
-###
+<table><tr><td valign="top" width="50%">
 
+
+
+### Connect With Me 🔗  
 <div align="center">
-  <a href="alankamesta.ginting@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alankamestaginting/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/alankamesta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+<a href="https://instagram.com/https://www.instagram.com/alannkg/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/alankamesta/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alankamestaginting/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+
+
+### What I learned  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
 </div>
 
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="35" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-</div>
+</td><td valign="top" width="50%">
 
-###
-<br><br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alana1252&locale=en&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alana1252&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://i.pinimg.com/originals/af/e6/55/afe65557a50f1f634fed4a23bc411ea8.gif" align="left" height="330" width="300" />  
 
-###
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Github Performance Overall 😍  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alana1252&hide_border=true&layout=compact" align="left" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alana1252&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td></tr></table>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
