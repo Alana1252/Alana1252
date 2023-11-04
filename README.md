@@ -54,7 +54,7 @@ I'm a passionate frontend developer, from Indonesia.
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alana1252&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alana1252&hide_border=true&layout=compact" align="center" />
 
 </td><td valign="top" width="50%">
 
