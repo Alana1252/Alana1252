@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Connect With Me 🔗</h2>
+<h2 align="left">Connect With Me 🔗 :</h2>
 
 ###
 
@@ -53,7 +53,6 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
 <br clear="both">
 
 <div align="center">
