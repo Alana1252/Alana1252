@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻 <a href="https://tpakd.bengkaliskab.go.id/">tpakd.bengkaliskab.go.id</a>. government information website as backend and frontend.</p>
+<p align="left">🧑‍💻 <a href="https://tpakd.bengkaliskab.go.id/" data-target="_blank">tpakd.bengkaliskab.go.id</a>. government information website as backend and frontend.</p>
 
 ###
 
