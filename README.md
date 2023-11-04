@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Kamesta Ginting</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **CodeIgniter4 and JavaScript**
+- 🌱 I’m currently learning **CodeIgniter4 ,Laravel and JavaScript**
 
 - 📫 How to reach me **kamesta.ginting@gmail.com**
 
