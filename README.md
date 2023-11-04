@@ -37,19 +37,19 @@
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="35" alt="codeigniter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
 </div>
 
 ###
