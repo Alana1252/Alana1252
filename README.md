@@ -18,7 +18,7 @@ I'm a passionate frontend developer, from Indonesia.
 
 <br/>  
 
-<tr><td valign="top" width="50%">
+<tr><td valign="top" width="60%">
 
 
 
