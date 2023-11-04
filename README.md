@@ -44,7 +44,7 @@ I'm a passionate frontend developer, from Indonesia.
 
 </td><td valign="top" width="50%">
 
-<img src="https://i.pinimg.com/originals/af/e6/55/afe65557a50f1f634fed4a23bc411ea8.gif" align="center" height="330" width="350" />
+<img src="https://i.pinimg.com/originals/af/e6/55/afe65557a50f1f634fed4a23bc411ea8.gif" align="center" height="330" width="360" />
 
 </td></tr></table>
 
