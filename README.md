@@ -36,7 +36,6 @@
 </div>
 
 ###
-<br clear="both">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
