@@ -1,7 +1,7 @@
-## Hey 👋, I'm Alan Kamesta Ginting!
+## Hey 👋, I'm Alan Kamesta Ginting!<img src="https://komarev.com/ghpvc/?username=Alana1252&&style=flat-square" align="right" />
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=Alana1252&&style=flat-square" align="right" />
+
 </div>
 
 I'm a passionate frontend developer, from Indonesia.
