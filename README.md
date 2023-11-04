@@ -16,6 +16,11 @@
 
 <h2 align="left">Connect With Me 🔗 :</h2>
 
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###
 
 <div align="center">
@@ -49,10 +54,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 <br clear="both">
 
 <div align="center">
@@ -61,7 +62,8 @@
 </div>
 
 ###
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alana1252/Alana1252/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
