@@ -52,15 +52,10 @@ I'm a passionate frontend developer, from Indonesia.
 
 ## Github Performance Overall 😍
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alana1252&hide_border=true&layout=compact" align="center" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alana1252&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td></tr></table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alana1252&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alana1252&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <br />
 
 ![Snake animation](https://github.com/Alana1252/Alana1252/blob/output/snake.svg)
