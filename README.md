@@ -1,28 +1,23 @@
-## Hey 👋, I'm Alan Kamesta Ginting!   
-  
+## Hey 👋, I'm Alan Kamesta Ginting!
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Alana1252&&style=flat-square" align="right" />
-</div>  
-  
+</div>
 
-I'm a passionate frontend developer, from Indonesia.  
-  
+I'm a passionate frontend developer, from Indonesia.
 
-<br/>  
+<br/>
 
+## My Work 🤝
 
-## My Work 🤝  
-🧑‍💻[tpakd.bengkaliskab.go.id](https://tpakd.bengkaliskab.go.id/). government information website as backend and frontend.  
-  
+🧑‍💻[tpakd.bengkaliskab.go.id](https://tpakd.bengkaliskab.go.id/). government information website as backend and frontend.
 
-<br/>  
+<br/>
 
 <table><tr><td valign="top" width="50%">
 
+### Connect With Me 🔗
 
-
-### Connect With Me 🔗  
 <div align="center">
 <a href="https://instagram.com/https://www.instagram.com/alannkg/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -33,12 +28,10 @@ I'm a passionate frontend developer, from Indonesia.
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alankamestaginting/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
+### What I learned 📘
 
-
-### What I learned 📘  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -51,15 +44,14 @@ I'm a passionate frontend developer, from Indonesia.
 
 </td><td valign="top" width="50%">
 
-<img src="https://i.pinimg.com/originals/af/e6/55/afe65557a50f1f634fed4a23bc411ea8.gif" align="left" height="330" width="420" />  
+<img src="https://i.pinimg.com/originals/af/e6/55/afe65557a50f1f634fed4a23bc411ea8.gif" align="left" height="330" width="420" />
 
+</td></tr></table>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Github Performance Overall 😍
 
-
-## Github Performance Overall 😍  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alana1252&hide_border=true&layout=compact" align="left" />
@@ -70,5 +62,7 @@ I'm a passionate frontend developer, from Indonesia.
 
 </td></tr></table>
 <br />
+
 ![Snake animation](https://github.com/Alana1252/Alana1252/blob/output/github-contribution-grid-snake.svg)
-----
+
+##
